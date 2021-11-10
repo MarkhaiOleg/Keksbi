@@ -11,7 +11,6 @@
 .price-list {
   width: 100%;
   border-collapse: collapse;
-  border-spacing: 0;
 }
 
 .price-list th {
@@ -34,4 +33,9 @@
 
 .price-list .price-name {
   font-weight: bold;
+}
+
+.feedback-form-group {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
